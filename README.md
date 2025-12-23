@@ -33,11 +33,11 @@ L’architecture repose sur les composants suivants :
                 └───────┬────────┘
                         │
                 ┌───────▼────────┐
-Client ───────▶ │ Gateway        │
-└───────┬────────┘
-┌───────────────┼────────────────┐
-▼               ▼                ▼
-Customer Service   Inventory Service   Billing Service
+    Client ───────▶ │ Gateway        │
+                └───────┬────────┘
+        ┌───────────────┼────────────────┐
+        ▼               ▼                ▼
+    Customer Service   Inventory Service   Billing Service
 
 
 
